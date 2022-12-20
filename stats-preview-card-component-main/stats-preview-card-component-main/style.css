@@ -29,3 +29,13 @@ body{
 .parent{
     width:  15px;
 }
+
+
+@media screen and (max-width:1035px) {
+    .container{
+      justify-content: center;
+      align-items: flex-end;
+      display: block;
+      
+    }
+}
